@@ -1,0 +1,2 @@
+Nov 9 2024
+https://docs.expo.dev/tutorial/create-your-first-app/
